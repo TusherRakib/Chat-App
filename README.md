@@ -1,16 +1,11 @@
 # chat_app
+ Description: A chat app where you can select your friends to chat. 
+I will update this chat app and connect this with Firebase.
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/49785991/122447185-55e3db80-cf58-11eb-889b-c35605d9af35.png)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/49785991/122447231-609e7080-cf58-11eb-99c6-9c8d2a207602.png)
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/49785991/122447276-6dbb5f80-cf58-11eb-91ab-85a553198874.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/49785991/122447345-7ca21200-cf58-11eb-9958-e679bcd8d0ea.png)
